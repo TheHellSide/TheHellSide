@@ -1,5 +1,5 @@
 
-<h1 align="center"><b> TheHellSide </b><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yes-sVH1BZSuVYtfE0wO0g.gif" width="40"></h1>
+<h1 align="center"><b> TheHellSide </b><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"></h1>
 <!--  -->
 
 <br>
