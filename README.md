@@ -4,7 +4,7 @@
 
 <br>
 	
-## <picture><img src = "https://www.iconshock.com/img/landing-assets/social-icons/aplication-social-media-icons-vector.webp" width = 50px></picture> **About Me**
+## <picture><img src = "" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -23,12 +23,11 @@
 
 <br>
 
-- A passionate Ethical Hacking
-- Playing CTF's on Hack The Box
-- Currently learning Cyber Security
-- Courses created on youtube [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
-- Discord Community [link](https://discord.gg/dG6bzkbrZk)
-- Twitter [link](https://twitter.com/ModernNaval)
+- Instagram
+- Telegram
+- X
+- Discord
+  
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
