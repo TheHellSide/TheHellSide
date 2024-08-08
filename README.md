@@ -82,7 +82,7 @@
 
 <a href="https://github.com/TheHellSide/">
   <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=1F9134&icon_color=317A47&text_color=BAC0B8&bg_color=0,000000,272D28" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSIde&show_icons=true&locale=en&layout=compact&line_height=20&title_color=1F9134&icon_color=317A47&text_color=BAC0B8&bg_color=0,000000,272D28" width="375"  alt="TheHellSide"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSIde&show_icons=true&locale=en&layout=compact&line_height=20&title_color=1F9134&icon_color=317A47&text_color=BAC0B8&bg_color=0,000000,272D28" width="350"  alt="TheHellSide"/>
 
 </a>
 
