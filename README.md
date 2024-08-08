@@ -20,7 +20,7 @@
 
 <br>
 
-- Instagram
+- Instagram [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
 - Telegram
 - X
 - Discord
