@@ -1,6 +1,6 @@
 ## Hi, I'm TheHellSide 👋
 ## Social
-- [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
+- Instagram [link]([https://t.me/TheHellSide])
 - Discord Community [link](https://discord.gg/dG6bzkbrZk)
 - Twitter [link](https://twitter.com/ModernNaval)
 <br><br>
