@@ -6,8 +6,6 @@
 	
 ## **About Me**
 
-// <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - Ethical Hacking and Cyber Security
@@ -15,11 +13,10 @@
 - Playing Machines on Hack The Box and TryHackMe
 - Currently learning Cyber Security
 
-<br><br>
+<br>
+<br>
 
 ## **Socials**
-
-// <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -28,7 +25,8 @@
 - X
 - Discord
   
-<br><br>
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -88,7 +86,7 @@
 
 <div align="center">
 
-<a href="https://github.com/roby7979/">
+<a href="https://github.com/TheHellSide/">
   <img src="https://github-readme-stats.vercel.app/api?username=roby7979&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roby7979&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="roby7979"/>
 
