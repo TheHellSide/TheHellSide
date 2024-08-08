@@ -21,7 +21,7 @@
 <br>
 
 - Instagram [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
-- Telegram
+- Telegram [Link](https://t.me/TheHellSide)
 - X
 - Discord
   
