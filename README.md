@@ -1,13 +1,7 @@
-## Hi, I'm TheHellSide 👋
-## Social
-- Instagram: [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
-- Discord: [Link](https://discord.com/invite/mNAhNX7Z)
-- X: [Link](https://x.com/FabioUnknown?t=T5Fc2fnaqBI9OhzKYqygMw&s=09)
-- Telegram: [link](https://t.me/TheHellSide)
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center"><b>Hi , I'm Roby7979 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm TheHellSIde </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 <br>
@@ -17,13 +11,11 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Ethical Hacking
-- Playing CTF's on Hack The Box
-- Currently learning Cyber Security
-- Courses created on youtube [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
-- Discord Community [link](https://discord.gg/dG6bzkbrZk)
-- Twitter [link](https://twitter.com/ModernNaval)
+## Social
+- Instagram: [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
+- Discord: [Link](https://discord.com/invite/mNAhNX7Z)
+- X: [Link](https://x.com/FabioUnknown?t=T5Fc2fnaqBI9OhzKYqygMw&s=09)
+- Telegram: [link](https://t.me/TheHellSide)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
