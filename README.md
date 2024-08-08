@@ -21,6 +21,7 @@
 <br>
 
 - Instagram
+- ![X (Twitter) URL](https://img.shields.io/twitter/https://x.com/FabioUnknown?t=T5Fc2fnaqBI9OhzKYqygMw&s=09)
 - Telegram
 - X
 - Discord
