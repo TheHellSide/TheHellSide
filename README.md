@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## <img src="social.gif" width ="25"><b> Socials</b>
+## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="25"><b> Socials</b>
 
 <br>
 
