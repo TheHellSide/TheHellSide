@@ -1,8 +1,9 @@
 ## Hi, I'm TheHellSide 👋
 ## Social
-- Instagram [link]([https://t.me/TheHellSide])
-- Discord Community [link](https://discord.gg/dG6bzkbrZk)
-- Twitter [link](https://twitter.com/ModernNaval)
+- Instagram: [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
+- Discord: [Link](https://discord.com/invite/mNAhNX7Z)
+- X: [Link](https://x.com/FabioUnknown?t=T5Fc2fnaqBI9OhzKYqygMw&s=09)
+- Telegram: [link](https://t.me/TheHellSide)
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
