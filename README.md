@@ -1,4 +1,13 @@
 ## Hi, I'm TheHellSide 👋
+Currently learning Cyber Security
+- Courses created on youtube [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
+- Discord Community [link](https://discord.gg/dG6bzkbrZk)
+
+
+- Twitter [link](https://twitter.com/ModernNaval)
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--
 **TheHellSide/TheHellSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
