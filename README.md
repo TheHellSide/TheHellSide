@@ -4,7 +4,7 @@
 
 <br>
 	
-## **About Me**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd5OG9mNXo2bXp5anNic2o0OWoybGJ2cXN5M3NlejhrZjYxbDdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKfFfkqN7AHYbLeNYF/giphy.webp" width ="30"><b> About Me</b>
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="25"><b> Socials</b>
+## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="30"><b> Socials</b>
 
 <br>
 
@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
 <br>
 
 <p align="center">
