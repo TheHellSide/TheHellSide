@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm TheHellSide </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> TheHellSide </b><img src="(https://miro.medium.com/v2/resize:fit:720/format:webp/1*yes-sVH1BZSuVYtfE0wO0g.gif)" width="35"></h1>
 <!--  -->
 
 <br>
