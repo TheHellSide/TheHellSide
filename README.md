@@ -1,21 +1,34 @@
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h1 align="center"><b>Hi , I'm TheHellSIde </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm TheHellSide </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-## Social
-- Instagram: [Link](https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==)
-- Discord: [Link](https://discord.com/invite/mNAhNX7Z)
-- X: [Link](https://x.com/FabioUnknown?t=T5Fc2fnaqBI9OhzKYqygMw&s=09)
-- Telegram: [link](https://t.me/TheHellSide)
+
+- Ethical Hacking and Cyber Security
+- Coding and Web Developing
+- Playing Machines on Hack The Box and TryHackMe
+- Currently learning Cyber Security
+
+<br><br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Socials*
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Ethical Hacking
+- Playing CTF's on Hack The Box
+- Currently learning Cyber Security
+- Courses created on youtube [link](https://www.youtube.com/channel/UCAwPX5amsoJBiJyj-vmHhcQl)
+- Discord Community [link](https://discord.gg/dG6bzkbrZk)
+- Twitter [link](https://twitter.com/ModernNaval)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -97,19 +110,3 @@
 <br>
 
 
-
-
-<!--
-**TheHellSide/TheHellSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
