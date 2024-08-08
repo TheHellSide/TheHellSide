@@ -81,8 +81,8 @@
 <div align="center">
 
 <a href="https://github.com/TheHellSide/">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,267011" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSIde&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="TheHellSide"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=BAC0B8&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSIde&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=BAC0B8&bg_color=0,000000,130F40" width="375"  alt="TheHellSide"/>
 
 </a>
 
