@@ -1,10 +1,10 @@
 
-<h1 align="center"><b> TheHellSide </b><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yes-sVH1BZSuVYtfE0wO0g.gif" width="35"></h1>
+<h1 align="center"><b> TheHellSide </b><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yes-sVH1BZSuVYtfE0wO0g.gif" width="40"></h1>
 <!--  -->
 
 <br>
 	
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd5OG9mNXo2bXp5anNic2o0OWoybGJ2cXN5M3NlejhrZjYxbDdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKfFfkqN7AHYbLeNYF/giphy.webp" width ="30"><b> About Me</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd5OG9mNXo2bXp5anNic2o0OWoybGJ2cXN5M3NlejhrZjYxbDdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKfFfkqN7AHYbLeNYF/giphy.webp" width ="35"><b> About Me</b>
 
 <br>
 
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="30"><b> Socials</b>
+## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="35"><b> Socials</b>
 
 <br>
 
@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 <br>
 
 <p align="center">
