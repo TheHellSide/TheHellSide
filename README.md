@@ -17,7 +17,7 @@
 
 <br><br>
 
-## <picture><img src = "https://www.iconshock.com/img/landing-assets/social-icons/aplication-social-media-icons-vector.webp" width = 50px></picture> **Socials**
+## **Socials**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
