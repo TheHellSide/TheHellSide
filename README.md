@@ -4,7 +4,7 @@
 
 <br>
 	
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd5OG9mNXo2bXp5anNic2o0OWoybGJ2cXN5M3NlejhrZjYxbDdsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PKfFfkqN7AHYbLeNYF/giphy.webp" width ="35"><b> About Me</b>
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width ="35"><b> About Me</b>
 
 <br>
 
