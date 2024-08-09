@@ -99,4 +99,9 @@
 <br>
 
 <p align="center">There is no rest for me in this world.
-Perhaps in the next...</p>
+Perhaps in the next...
+</p>
+<p align="center">Vi Veri Veniversum Vivus Vici... 
+</p>
+<p align="center">Veni, Vidi, Vici... </p>
+
