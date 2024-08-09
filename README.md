@@ -1,11 +1,9 @@
-<!--
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" max-width=100%>
 
 
 <br><br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
--->
  
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width ="35"><b> About Me</b>
 <br>
@@ -134,8 +132,8 @@
 <div align="center">
 
   <a href="https://github.com/TheHellSide/">
-     <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="450"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSIde&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="375" alt="TheHellSide"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="450" alt="TheHellSide"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="375" alt="TheHellSide"/>
   </a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheHellSide%20&theme=blood-dark&card_width=475&card_height=200" alt="GitHub Streak" />
   </a>
